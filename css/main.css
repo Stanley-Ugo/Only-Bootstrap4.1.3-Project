@@ -17,9 +17,9 @@ body {
 }
 
 .about-picture {
-    background: url(../img/header-bcg.jpeg)/cover/center/no-repeat/fixed;
-    /* background-size: cover;
+    background: url(../img/header-bcg.jpeg);
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed; */
+    background-attachment: fixed;
 }
